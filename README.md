@@ -67,14 +67,6 @@ I build reliable software with **Python, REST APIs, SQL, and automated testing**
 - Use linting, formatting, coverage gates, and continuous integration
 - Treat quality as part of software development—not a final step
 
-## GitHub Activity
-
-<div align="center">
-
-![Philip's GitHub stats](https://github-readme-stats.vercel.app/api?username=PhilipOkeke&show_icons=true&theme=tokyonight&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilipOkeke&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## Let's Connect
 
