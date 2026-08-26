@@ -23,9 +23,9 @@ I am open to **Software Engineer, Backend Developer, Python Developer, API Integ
 
 | Project | What I built | What to review |
 | --- | --- | --- |
-| **[TaskFlow API](https://github.com/SenseiPhiL/taskflow-api)** | A task management backend with FastAPI, JWT authentication, task ownership, PostgreSQL support, and database migrations. | API design, data modeling, validation, automated tests, Docker, and CI. |
-| **[API Test Automation Framework](https://github.com/SenseiPhiL/api-test-automation-framework)** | A reusable Python framework for testing TaskFlow through its HTTP API. | API clients, fixtures, JSON Schema validation, Postman examples, and CI integration. |
-| **[Selenium Web Automation Framework](https://github.com/SenseiPhiL/selenium-web-automation-framework)** | Browser automation for a web client connected to TaskFlow. | Selenium, Page Object Model, browser workflows, screenshots, and automated regression checks. |
+| **[TaskFlow API](https://github.com/PhilipOkeke/taskflow-backend-api)** | A task management backend with FastAPI, JWT authentication, task ownership, PostgreSQL support, and database migrations. | API design, data modeling, validation, automated tests, Docker, and CI. |
+| **[API Test Automation Framework](https://github.com/PhilipOkeke/api-testing-framework)** | A reusable Python framework for testing TaskFlow through its HTTP API. | API clients, fixtures, JSON Schema validation, Postman examples, and CI integration. |
+| **[Selenium Web Automation Framework](https://github.com/PhilipOkeke/selenium-web-automation-framework)** | Browser automation for a web client connected to TaskFlow. | Selenium, Page Object Model, browser workflows, screenshots, and automated regression checks. |
 
 These are connected portfolio projects, not claims of commercial production experience. Together they demonstrate implementation, integration, testing, and delivery across a small application.
 
