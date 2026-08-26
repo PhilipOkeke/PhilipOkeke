@@ -26,9 +26,9 @@ I build reliable software with **Python, REST APIs, SQL, and automated testing**
 
 | Project | What it demonstrates | Engineering signals |
 |---|---|---|
-| [**TaskFlow API**](https://github.com/PhilipOkeke/taskflow-api) | A task-management REST API built with FastAPI, SQLModel, and SQLite | Validation, filtering, pagination, 90%+ test coverage, Docker, CI |
-| [**API Test Automation Framework**](https://github.com/PhilipOkeke/api-test-automation-framework) | Reusable black-box API automation for TaskFlow | PyTest, Requests, JSON Schema, Postman, reports, CI |
-| [**Selenium Web Automation Framework**](https://github.com/PhilipOkeke/selenium-web-automation-framework) | End-to-end testing of a browser-based TaskFlow client | Selenium, Page Object Model, screenshots, smoke/regression suites, CI |
+| [**TaskFlow API**](https://github.com/SenseiPhiL/taskflow-api) | A task-management REST API built with FastAPI, SQLModel, and SQLite | Validation, filtering, pagination, 90%+ test coverage, Docker, CI |
+| [**API Test Automation Framework**](https://github.com/SenseiPhiL/api-test-automation-framework) | Reusable black-box API automation for TaskFlow | PyTest, Requests, JSON Schema, Postman, reports, CI |
+| [**Selenium Web Automation Framework**](https://github.com/SenseiPhiL/selenium-web-automation-framework) | End-to-end testing of a browser-based TaskFlow client | Selenium, Page Object Model, screenshots, smoke/regression suites, CI |
 
 > Together, these repositories show a complete quality-focused workflow: build the API, verify it at the service layer, and validate it through the browser.
 
