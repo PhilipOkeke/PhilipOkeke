@@ -23,11 +23,12 @@ I am open to **Software Engineer, Backend Developer, Python Developer, API Integ
 
 | Project | What I built | What to review |
 | --- | --- | --- |
+| **[Job Application Tracker](https://github.com/PhilipOkeke/job-application-tracker)** | An independent full-stack product with a responsive UI, FastAPI backend, SQL persistence, and pipeline analytics. | Product design, frontend behavior, REST API, validation, 98% tested coverage, Docker, CI, and CodeQL. |
 | **[TaskFlow API](https://github.com/PhilipOkeke/taskflow-backend-api)** | A task management backend with FastAPI, JWT authentication, task ownership, PostgreSQL support, and database migrations. | API design, data modeling, validation, automated tests, Docker, and CI. |
 | **[API Test Automation Framework](https://github.com/PhilipOkeke/api-testing-framework)** | A reusable Python framework for testing TaskFlow through its HTTP API. | API clients, fixtures, JSON Schema validation, Postman examples, and CI integration. |
 | **[Selenium Web Automation Framework](https://github.com/PhilipOkeke/selenium-web-automation-framework)** | Browser automation for a web client connected to TaskFlow. | Selenium, Page Object Model, browser workflows, screenshots, and automated regression checks. |
 
-These are connected portfolio projects, not claims of commercial production experience. Together they demonstrate implementation, integration, testing, and delivery across a small application.
+The job tracker demonstrates an independent product workflow, while the three connected TaskFlow repositories show implementation, integration, API testing, and browser automation across one system. These are portfolio projects, not claims of commercial production experience.
 
 ## Engineering skills demonstrated
 
@@ -35,7 +36,7 @@ These are connected portfolio projects, not claims of commercial production expe
 - **Data and integration:** SQL, SQLModel/SQLAlchemy, PostgreSQL, SQLite, Alembic migrations, and HTTP API clients.
 - **Automation and quality:** PyTest, Requests, JSON Schema, Selenium, Postman, and regression testing.
 - **Delivery and maintainability:** Git, Docker, GitHub Actions, linting, configuration, and project documentation.
-- **Web fundamentals:** JavaScript, HTML, and CSS in the TaskFlow browser client.
+- **Web fundamentals:** Responsive JavaScript, HTML, and CSS interfaces in the Job Application Tracker and TaskFlow browser client.
 
 ## How I approach a project
 
