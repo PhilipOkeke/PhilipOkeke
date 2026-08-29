@@ -9,7 +9,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 
-Kingston, Ontario, Canada · [LinkedIn](https://www.linkedin.com/in/philip-okeke-8148a42a4) · [Email](mailto:engr.philipokeke@gmail.com)
+Kingston, Ontario, Canada · [LinkedIn](https://www.linkedin.com/in/philip-okeke-8148a42a4)  [Email](mailto:engr.philipokeke@gmail.com)
 
 </div>
 
